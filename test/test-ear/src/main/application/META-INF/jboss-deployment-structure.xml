@@ -1,0 +1,11 @@
+<jboss-deployment-structure>
+	<ear-subdeployments-isolated>false</ear-subdeployments-isolated>
+	<sub-deployment name="test-ejb.jar">
+		<dependencies>
+			<module name="deployment.singleton-ear.ear.singleton-ejb.jar"
+				export="TRUE" />
+		</dependencies>
+	</sub-deployment>
+</jboss-deployment-structure>
+
+

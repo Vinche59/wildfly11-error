@@ -1,0 +1,12 @@
+*.project
+**/.settings
+**/target
+**/jnlp-releases
+**/jnlp-snapshots
+**/bin
+**/.classpath
+**/*.jasper
+**/*.checkstyle
+**/velocity.log
+**/Thumbs.db
+.tern-project
