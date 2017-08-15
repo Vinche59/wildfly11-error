@@ -13,5 +13,5 @@
 * Deploy :
 `${jboss.home.name}/bin/jboss-cli.sh -c --file=deploy-domain.cli`
 
-In Wildfly 10.1.0.Final => OK
+In Wildfly 10.1.0.Final => OK  
 In Wildfly 11.0.0.Beta1 => Deployement error 

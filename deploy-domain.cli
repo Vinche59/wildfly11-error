@@ -1,0 +1,4 @@
+batch
+deploy singleton/singleton-ear/target/singleton-ear.ear --server-groups=main-server-group
+deploy test/test-ear/target/test-ear.ear --server-groups=main-server-group
+run-batch
